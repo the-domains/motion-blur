@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-05T10:51:31.587Z'
+datePublished: '2016-10-05T10:51:32.913Z'
 sourcePath: _posts/2016-10-05-ufc-on-fox-road-to-the-octagon-21-maia-vs-condit.md
 inFeed: true
 hasPage: true
@@ -10,7 +10,7 @@ author:
     url: 'https://vimeo.com/user6131662'
     avatar: {}
 via: {}
-dateModified: '2016-10-05T10:51:30.785Z'
+dateModified: '2016-10-05T10:51:32.320Z'
 title: UFC on Fox 'Road to the Octagon' 21 - Maia vs Condit
 app_links: []
 publisher: {}
