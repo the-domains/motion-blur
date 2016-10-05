@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-05T10:51:31.583Z'
+datePublished: '2016-10-05T10:51:32.915Z'
 sourcePath: _posts/2016-10-05-ufc-on-fox-road-to-the-octagon-20-holm-vs-shevchenko.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/185423830'
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-10-05T10:51:30.785Z'
+dateModified: '2016-10-05T10:51:32.320Z'
 title: UFC on Fox 'Road to the Octagon' 20 - Holm vs Shevchenko
 app_links: []
 publisher: {}
