@@ -1,0 +1,32 @@
+typography_spectrum: 0.5537415228318423
+color:
+  brandStrength: 0.5517426754813641
+  lightness: 0.03589073265902698
+  saturation: 0.2245616582222283
+  rhythmicContrast: 0.6164527689106762
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+github: true
+layout_spectrum: 0.8949286676943302
+author:
+  name: MOTION BLUR
+  email: MOTIONBLURNYC@MAC.COM
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4b77d6c-441b-4f3a-b303-021a91bada51.png
+name: MOTION BLUR
+navigation:
+  - name: EDITORIAL
+    id: 0cb10c10-5d1a-4edb-b704-62569d4ea3a7
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc144c2-d608-4e9e-a726-72f0579235f9.png
+title: KEEP IT STUPID SIMPLE.
+description: ' '
+purpose:
+  - type: contact
+    url: 'mailto:motionblurnyc@mac.com'
+    label: Contact us
