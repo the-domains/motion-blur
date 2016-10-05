@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=qe86NAq5klU'
 title: The Heretic Anthem - Slipknot (Roland TD-30KV - V-Drum Cover) by THE V-DRUMMER
-datePublished: '2016-10-05T10:53:24.146Z'
-dateModified: '2016-10-05T10:53:23.932Z'
+datePublished: '2016-10-05T10:53:38.215Z'
+dateModified: '2016-10-05T10:53:37.923Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-05-the-heretic-anthem-slipknot-roland-td-30kv-v-drum-cover.md
